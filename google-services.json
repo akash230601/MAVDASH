@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "318682107244",
+    "project_id": "mavdash-ffdf8",
+    "storage_bucket": "mavdash-ffdf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318682107244:android:a12a0c2ea847c62feb3749",
+        "android_client_info": {
+          "package_name": "com.example.mavdash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318682107244-52ocopbctd8iuqs9vr9rsuq51vma7q5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mavdash",
+            "certificate_hash": "11e402e1557940dc278ca26ed29435ea49f4539f"
+          }
+        },
+        {
+          "client_id": "318682107244-oul5urduapi0208i7phrn1ikarhnk3a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHn3A3ddSyJiS93oI5xQzz6yKXUg9JkLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318682107244-oul5urduapi0208i7phrn1ikarhnk3a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
